@@ -1,0 +1,34 @@
+ const category = [
+    {
+      Name: "Beauty",
+      img: "",
+    },
+    {
+      Name: "Handbags",
+      img: "",
+    },
+    {
+      Name: "Kurtas",
+      img: "",
+    },
+    {
+      Name: "T-Shirts",
+      img: "",
+    },
+    {
+      Name: "Sarees",
+      img: "",
+    },
+    {
+      Name: "Jewellery",
+      img: "",
+    },
+    {
+      Name: "Kurta Set",
+      img: "",
+    },
+    {
+      Name: "Jeans",
+      img: "",
+    },
+  ];

@@ -1,0 +1,40 @@
+.Navbar-container {
+  background-color: rgb(28, 172, 249);
+  padding: 5px;
+  position: relative;
+  height: 50px;
+  box-shadow: 0 0 5px 1px;
+}
+.Navbar-container ul {
+  position: absolute;
+  top: 0;
+  right: 50px;
+  display: flex;
+}
+.Navbar-container ul li {
+  color: aliceblue;
+  list-style: none;
+  font-weight: 600;
+  font-size: 22px;
+  margin-left: 40px;
+}
+
+.Navbar-container ul li img {
+  height: 32px;
+  box-shadow: 0 0 20px 3px rgb(0, 132, 255);
+  /* position: relative;
+  top: -30px;
+  left: 80px;
+  margin-left: 25px; */
+}
+
+.habit-tracker-logo {
+  height: 45px;
+  position: absolute;
+  top: 10px;
+  /* left: 27%; */
+  left: 2%;
+  box-shadow: 0 0 5px 1px rgb(0, 132, 255);
+  border-radius: 8px;
+  z-index: 1;
+}
